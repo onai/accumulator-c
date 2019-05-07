@@ -1,0 +1,7 @@
+[package]
+name = "accumulator-c"
+version = "0.1.0"
+authors = ["Shriphani Palakodety <shriphanip@gmail.com>"]
+edition = "2018"
+
+[dependencies]
