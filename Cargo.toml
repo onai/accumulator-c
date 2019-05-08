@@ -10,5 +10,5 @@ libc = "~0.2"
 
 [lib]
 name = "accumulatorc"
-crate-type = ["rlib"]
+crate-type = ["dylib"]
 path = "src/lib.rs"
